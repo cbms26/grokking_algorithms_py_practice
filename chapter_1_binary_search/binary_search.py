@@ -19,3 +19,5 @@ def binary_search(arr_items, search_item):
 my_list = [1, 5, 10, 30, 60, 70]    # List should always be sorted to perform Binary Search
 
 print(binary_search(my_list, 70))
+
+
